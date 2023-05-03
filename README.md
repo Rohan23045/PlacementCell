@@ -12,3 +12,24 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
   * Deallocate the student from an interview
   * Update user profile
   * Download the CSV report
+
+## Tools Used :
+
+   * NodeJS
+   * MongoDB
+   * ExpressJS
+   * EJS
+   * Bootstrap
+  
+## Libraries Used:
+   * connect-mongo
+   * cookie-parser
+   * ejs
+   * express
+   * express-ejs-layout
+   * express-session
+   * mongoose
+   * passport
+   * passport-jwt
+   * passport-local
+   
